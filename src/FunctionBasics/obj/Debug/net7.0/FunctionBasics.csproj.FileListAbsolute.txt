@@ -1,0 +1,14 @@
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/obj/Debug/net7.0/FunctionBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/obj/Debug/net7.0/FunctionBasics.AssemblyInfoInputs.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/obj/Debug/net7.0/FunctionBasics.AssemblyInfo.cs
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/obj/Debug/net7.0/FunctionBasics.csproj.CoreCompileInputs.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/bin/Debug/net7.0/FunctionBasics
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/bin/Debug/net7.0/FunctionBasics.deps.json
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/bin/Debug/net7.0/FunctionBasics.runtimeconfig.json
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/bin/Debug/net7.0/FunctionBasics.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/bin/Debug/net7.0/FunctionBasics.pdb
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/obj/Debug/net7.0/FunctionBasics.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/obj/Debug/net7.0/refint/FunctionBasics.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/obj/Debug/net7.0/FunctionBasics.pdb
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/obj/Debug/net7.0/FunctionBasics.genruntimeconfig.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionBasics/obj/Debug/net7.0/ref/FunctionBasics.dll
