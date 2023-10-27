@@ -1,0 +1,14 @@
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/bin/Debug/net7.0/Operators
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/bin/Debug/net7.0/Operators.deps.json
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/bin/Debug/net7.0/Operators.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/bin/Debug/net7.0/Operators.pdb
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/obj/Debug/net7.0/Operators.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/obj/Debug/net7.0/refint/Operators.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/obj/Debug/net7.0/Operators.pdb
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/Operators/obj/Debug/net7.0/ref/Operators.dll
