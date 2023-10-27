@@ -1,0 +1,14 @@
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/obj/Debug/net7.0/VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/obj/Debug/net7.0/VariablesAndDataTypes.AssemblyInfoInputs.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/obj/Debug/net7.0/VariablesAndDataTypes.AssemblyInfo.cs
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/obj/Debug/net7.0/VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/bin/Debug/net7.0/VariablesAndDataTypes
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/bin/Debug/net7.0/VariablesAndDataTypes.deps.json
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/bin/Debug/net7.0/VariablesAndDataTypes.runtimeconfig.json
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/bin/Debug/net7.0/VariablesAndDataTypes.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/bin/Debug/net7.0/VariablesAndDataTypes.pdb
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/obj/Debug/net7.0/VariablesAndDataTypes.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/obj/Debug/net7.0/refint/VariablesAndDataTypes.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/obj/Debug/net7.0/VariablesAndDataTypes.pdb
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/obj/Debug/net7.0/VariablesAndDataTypes.genruntimeconfig.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/VariablesAndDataTypes/obj/Debug/net7.0/ref/VariablesAndDataTypes.dll
