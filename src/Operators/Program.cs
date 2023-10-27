@@ -41,13 +41,27 @@ namespace Operators
       Console.WriteLine($"So, if we were to write x += y, we will get a value of: {x += y}"); // - Expected result is 55.
 
       // ====================================================
-      // - About logical operators && and ||
+      // - About logical operators:  && and ||
       // ====================================================
       int a = 33, b = 22;
       // - && means and
       Console.WriteLine(a > b && b >= 23); // - Expected to print False
       // - || means or
       Console.WriteLine(a > b || b <= 23); // - Expected to print True
+
+      // ====================================================
+      // - About the operators:  ?? and ??= 
+      // ====================================================
+      // - The ?? operator will either output the left-side operand if not null, or the right-side operand if it is null.
+      string someStr = null;
+      Console.WriteLine(someStr ?? "Unknown String"); // - Expected to print "Unknown String" because someStr has value of null.
+      // - The ??= operator will assign the right-side operand if the left-side one is null.
+      // - This operator replaces the code:
+      //    if (variable is null) {
+      //      variable = someValue
+      //    }
+      someStr ??= "New String"; // - Expected to print "New String" because someStr has value of null.
+      Console.WriteLine(someStr);
     }
   }
 }
