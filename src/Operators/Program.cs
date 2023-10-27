@@ -9,7 +9,9 @@ namespace Operators
       int num1 = 123, num2 = 456;
       string str1 = "abc", str2 = "def";
 
-      // - Using basic math operators, ie: + - * /
+      // ====================================================
+      // - About using basic math operators, ie: + - * /
+      // ====================================================
       Console.WriteLine("--------------------");
       Console.WriteLine("Basic Math Operators");
       Console.WriteLine("--------------------");
@@ -17,14 +19,15 @@ namespace Operators
       Console.WriteLine($"num2 - num1 = {num2-num1}");
       Console.WriteLine($"(num2 * 0) + num1 = {(num2 * 0) + num1}"); // - Expected to print 123.
 
-      // - Increment and decrement operators.
+      // ====================================================
+      // - About increment and decrement operators.
+      // ====================================================
       Console.WriteLine("---------------------------------");
       Console.WriteLine("Increment and decrement operators");
       Console.WriteLine("---------------------------------");
       int x = 22, y = 33;
       x++;
       y--;
-      
       
       Console.WriteLine($"Declare and initalize x and y as:");
       Console.WriteLine($"int x = 22, y = 33;");
@@ -37,7 +40,14 @@ namespace Operators
       Console.WriteLine($"With x incremented by 1, and y decremented 1, their current values are now: x = {x}, and y = {y}");
       Console.WriteLine($"So, if we were to write x += y, we will get a value of: {x += y}"); // - Expected result is 55.
 
-      // - Logical operators
+      // ====================================================
+      // - About logical operators && and ||
+      // ====================================================
+      int a = 33, b = 22;
+      // - && means and
+      Console.WriteLine(a > b && b >= 23); // - Expected to print False
+      // - || means or
+      Console.WriteLine(a > b || b <= 23); // - Expected to print True
     }
   }
 }
