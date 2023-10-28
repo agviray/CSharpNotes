@@ -12,9 +12,9 @@ namespace FunctionRefAndOutParams {
       Console.WriteLine($"{arg1}");
     }
 
-    // - When you pass arguments to a function by reference, those 
-    //   arguments can be modified by the function and then reflected
-    //   back to the caller.
+    // - When you pass arguments to a function by reference (using the "ref" keyword in the params), 
+    //   those arguments can be modified by the function and then reflected back to the caller.
+    // - Note that the ref keyword must also be used before the argument in the function call as well. 
     static void FunctionB(ref int arg1) {
       arg1+= 10;
       Console.WriteLine($"{arg1}");
@@ -36,6 +36,7 @@ namespace FunctionRefAndOutParams {
       Console.WriteLine("-------Testing FunctionB-------");
       Console.WriteLine("-------------------------------");
       Console.WriteLine($"FunctionB logs: ");
+      // - The "ref" keyword must be used in the function call as well.
       FunctionB(ref valForFuncB);
       Console.WriteLine($"And the value of the original variable, valForFuncB, is also changed to: {valForFuncB}");
     }
