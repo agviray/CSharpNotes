@@ -23,6 +23,14 @@ namespace FunctionRefAndOutParams {
     // ====================================================
     // - About the "out" keyword
     // ====================================================
+    // **********************************************************
+    // - *** IMPORTANT - READ THIS FIRST ***
+    //  - Note that using the "out" keyword is not the preferred 
+    //    way to return multiple values from a function.
+    //  - The preferred way to do this is by using tuples.
+    // **********************************************************
+    // - You can return multiple values from a function using the
+    //   "out" keyword.
     // - Functions that use the "out" keyword with a param means 2 things:
     //    1) The associated param returns a value.
     //    2) The associated param is not used to supply data to the function.

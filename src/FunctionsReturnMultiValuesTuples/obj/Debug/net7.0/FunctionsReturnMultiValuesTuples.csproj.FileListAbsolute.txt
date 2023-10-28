@@ -1,0 +1,14 @@
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/bin/Debug/net7.0/FunctionsReturnMultiValuesTuples
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/bin/Debug/net7.0/FunctionsReturnMultiValuesTuples.deps.json
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/bin/Debug/net7.0/FunctionsReturnMultiValuesTuples.runtimeconfig.json
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/bin/Debug/net7.0/FunctionsReturnMultiValuesTuples.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/bin/Debug/net7.0/FunctionsReturnMultiValuesTuples.pdb
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/obj/Debug/net7.0/FunctionsReturnMultiValuesTuples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/obj/Debug/net7.0/FunctionsReturnMultiValuesTuples.AssemblyInfoInputs.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/obj/Debug/net7.0/FunctionsReturnMultiValuesTuples.AssemblyInfo.cs
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/obj/Debug/net7.0/FunctionsReturnMultiValuesTuples.csproj.CoreCompileInputs.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/obj/Debug/net7.0/FunctionsReturnMultiValuesTuples.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/obj/Debug/net7.0/refint/FunctionsReturnMultiValuesTuples.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/obj/Debug/net7.0/FunctionsReturnMultiValuesTuples.pdb
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/obj/Debug/net7.0/FunctionsReturnMultiValuesTuples.genruntimeconfig.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionsReturnMultiValuesTuples/obj/Debug/net7.0/ref/FunctionsReturnMultiValuesTuples.dll
