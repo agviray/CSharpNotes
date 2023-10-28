@@ -1,0 +1,14 @@
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/bin/Debug/net7.0/FunctionRefAndOutParams
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/bin/Debug/net7.0/FunctionRefAndOutParams.deps.json
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/bin/Debug/net7.0/FunctionRefAndOutParams.runtimeconfig.json
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/bin/Debug/net7.0/FunctionRefAndOutParams.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/bin/Debug/net7.0/FunctionRefAndOutParams.pdb
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/obj/Debug/net7.0/FunctionRefAndOutParams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/obj/Debug/net7.0/FunctionRefAndOutParams.AssemblyInfoInputs.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/obj/Debug/net7.0/FunctionRefAndOutParams.AssemblyInfo.cs
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/obj/Debug/net7.0/FunctionRefAndOutParams.csproj.CoreCompileInputs.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/obj/Debug/net7.0/FunctionRefAndOutParams.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/obj/Debug/net7.0/refint/FunctionRefAndOutParams.dll
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/obj/Debug/net7.0/FunctionRefAndOutParams.pdb
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/obj/Debug/net7.0/FunctionRefAndOutParams.genruntimeconfig.cache
+/Users/allangv/Web Development/Code Workspace/CSharpNotes/src/FunctionRefAndOutParams/obj/Debug/net7.0/ref/FunctionRefAndOutParams.dll
