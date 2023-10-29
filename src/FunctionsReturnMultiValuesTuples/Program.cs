@@ -44,9 +44,23 @@ namespace FunctionsReturnMultiValuesTuples {
       // ------------
       // - If we don't specify names for the values, C# will automatically specify
       //   default names for us.
+      // - The auto-assigned names are: Item1, Item2, etc.
       var groceryTuple = ("water", "chicken", "broccoli");
-
+      // - Given the groceryTuple above, if we write something like:
+      //   Console.WriteLine(groceryTuple.Item1);
+      //   The value of "water" will be printed to the console.
+      // ==========================
       // Tuple values are mutable
+      // ==========================
+      // ------------
+      // - Example
+      // ------------
+      // - Modify tuple values using dot notation.
+      (string fruit01, string fruit02, string fruit03) fruitsTuple = ("apples","bananas","strawberries"); 
+      fruitsTuple.fruit01 = "grapes";
+      fruitsTuple.fruit03 = "watermelon";
+      var veggiesTuple = ("spinach", "carrots");
+      veggiesTuple.Item2 = "broccoli";
 
       // - Access the values contained in a tuple by referencing their names via
       //   dot notation.
@@ -67,6 +81,14 @@ namespace FunctionsReturnMultiValuesTuples {
       Console.WriteLine(groceryTuple.Item2);
       Console.WriteLine(groceryTuple.Item3);
       Console.WriteLine();
+      Console.WriteLine("------------------- Contents of fruitsTuple -------------------");
+      // - fruitsTuple was modified.
+      Console.WriteLine(fruitsTuple);
+      Console.WriteLine();
+      Console.WriteLine("------------------- Contents of veggiesTuple -------------------");
+      // - veggiesTuple was modified.
+      Console.WriteLine(veggiesTuple);
+
     }
   }
 }
