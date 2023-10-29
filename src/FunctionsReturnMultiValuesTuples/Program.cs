@@ -62,6 +62,19 @@ namespace FunctionsReturnMultiValuesTuples {
       var veggiesTuple = ("spinach", "carrots");
       veggiesTuple.Item2 = "broccoli";
 
+      // ======================================
+      // Returning multiple values with tuples
+      // ======================================
+      // - Functions can work with tuples.
+      // - For example, we can use tuples with functions to have said function 
+      //   return multiple values.
+      // ------------
+      // - Example
+      // ------------
+      // - Here, we are using the AddAndMultply function to initialize
+      //   the results tuple.
+      (int, int) results = AddAndMultiply(2, 3);
+
       // - Access the values contained in a tuple by referencing their names via
       //   dot notation.
       Console.WriteLine();
@@ -88,7 +101,16 @@ namespace FunctionsReturnMultiValuesTuples {
       Console.WriteLine("------------------- Contents of veggiesTuple -------------------");
       // - veggiesTuple was modified.
       Console.WriteLine(veggiesTuple);
-
+      Console.WriteLine();
+      Console.WriteLine("------------------- Contents of results -------------------");
+      // - The results tuple was initialized using the AddAndMultiply function.
+      Console.WriteLine(results);
+      Console.WriteLine(results.Item1);
+      Console.WriteLine(results.Item2);
+    }
+    // - Functions can return multiple values using tuples.
+    static (int, int) AddAndMultiply(int x, int y) {
+      return (x + y, x * y);
     }
   }
 }
